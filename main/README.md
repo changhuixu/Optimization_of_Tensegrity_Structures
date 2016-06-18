@@ -2,4 +2,4 @@
 
 The actual computing codes
 
-$$E_min $$
+$E_min $
